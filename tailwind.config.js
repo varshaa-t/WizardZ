@@ -15,7 +15,8 @@ export default {
         '10': '10px'
       },
       colors: {
-        'neon-green': '#beff5d'
+        'neon-green': '#beff5d',
+        'light-gray': '#f3f3f3'
       },
     },
   },
