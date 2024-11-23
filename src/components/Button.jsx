@@ -10,7 +10,7 @@ function Button({variant, text}) {
         )
     }
     return (
-        <button className='bg-white px-6 py-3 tracking-wider rounded-xl border-black border-3'>
+        <button className='bg-white px-6 py-4 tracking-wider rounded-xl border-black border-3'>
             {text}
         </button>
     )

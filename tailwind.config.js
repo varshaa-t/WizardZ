@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'space-grotesk': ['Space Grotesk']
+        'space-grotesk': ['Space Grotesk'],
+        'space-grotesk-bold': ['Space Grotesk Bold']
       },
       borderWidth: {
         '3': '3px',
